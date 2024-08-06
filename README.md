@@ -22,32 +22,6 @@ To get started with this project locally:
 portfolio will be running on http://localhost:3000.
 
 
-Here's how you can structure your README.md file in GitHub style:
-
-markdown
-Copy code
-# Personal Development Portfolio
-
-Welcome to my Personal Development Portfolio! This project showcases my skills, projects, and accomplishments. It is built using React and Next.js.
-
-## 🚀 Getting Started
-
-To get started with this project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/personal-portfolio.git
-
-2. **Navigate to the project directory:**
-   cd personal-portfolio
-
-3. **Install dependencies:**
-    npm install
-
-4. **Start the development server:**
-    npm run dev
-
-Your portfolio will be running on http://localhost:3000.
 
 **📁 Sections**
 i. Projects
