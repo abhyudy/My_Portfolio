@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "MERN Memories",
+    title: "BookMyShow platform",
     description:
-      "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-    image: "/images/1.png",
+      "Developed a full-featured React-based application replicating the BookMyShow platform. The app allows users to explore movies, view details, and choose to pay or rent using an integrated payment gateway. This project significantly enhanced user engagement by 50% and streamlined operational processes.",
+    image: "/images/7.png",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://github.com/abhyudy/book-my-show-react",
-    visit: "https://abhyudy.github.io/book-my-show-react/",
+    visit: "https://book-my-show-react-pn3ljkip9-abhyudy.vercel.app",
     id: 0,
   },
   {
